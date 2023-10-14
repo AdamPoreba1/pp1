@@ -1,7 +1,0 @@
-Father = int(input("Enter father s income:"))
-Mother = int(input("Enter mother s income:"))
-Number = int(input("Enter number of people in family:"))
-Totalinc = (Father + Mother)
-print(F"Total income is: {Totalinc} ")
-Prpr = int(Totalinc) / int(Number)
-print(Prpr)
