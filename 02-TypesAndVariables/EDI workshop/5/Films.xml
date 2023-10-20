@@ -1,0 +1,43 @@
+<?xml version ="1.0" encoding ="utf-8" ?>
+<Movies>
+    <film>
+        <name> Oppenheimer </name>
+        <year> 2023 </year>
+        <personal_rating> 9/10 </personal_rating>
+        <genre> biographical thriller </genre>
+        <director> Christopher Nolan </director>
+        <main_actors> Cillian Murphy </main_actors>
+    </film>
+    <film>
+        <name> Guardians of the Galaxy Vol. 3 </name>
+        <year> 2023 </year>
+        <personal_rating> 7/10 </personal_rating>
+        <genre> Sci-Fi, Action </genre>
+        <director> James Gunn </director>
+        <main_actors> Chris Pratt, Dave Bautista </main_actors>
+    </film>
+    <film>
+        <name> The Pope's Exorcist </name>
+        <year> 2023 </year>
+        <personal_rating> 7.5/10 </personal_rating>
+        <genre> Horror </genre>
+        <director> Julius Avery </director>
+        <main_actors> Russell Crowe </main_actors>
+    </film>
+     <film>
+        <name> Indiana Jones and the Dial of Destiny </name>
+        <year> 2023 </year>
+        <personal_rating> 5.5/10 </personal_rating>
+        <genre> Adventure </genre>
+        <director> James Mangold </director>
+        <main_actors> Harrison Ford </main_actors>
+    </film>
+    <film>
+        <name> Elemental </name>
+        <year> 2023 </year>
+        <personal_rating> 8/10 </personal_rating>
+        <genre> Animation, Adventure </genre>
+        <director> Peter Sohn </director>
+        <main_actors> Leah Lewis </main_actors>
+    </film>
+</Movies>

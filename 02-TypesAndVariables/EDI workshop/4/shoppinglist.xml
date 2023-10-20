@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ShoppingList>
+		<product category = "meat">
+			<name>ham</name>
+			<quantity unit="kg">0.5</quantity>
+		</product>
+		<product category = "vegetables">
+			<name>green beans</name>
+			<quantity unit="kg">1</quantity>
+		</product>
+		<product category = "vegetables">
+			<name>potatoes</name>
+			<quantity unit="kg">2</quantity>
+		</product>	
+		<product category = "dairy">
+			<name>cheese</name>
+			<quantity unit="kg">0.2</quantity>
+		</product>
+		<product category = "dairy">
+			<name>eggs</name>
+			<quantity unit="pcs">10</quantity>
+		</product>
+		<product category = "beverages">
+			<name>Fanta</name>
+			<quantity unit="L">2.25</quantity>
+		</product>
+		<product category = "beverages">
+			<name>Pepsi</name>
+			<quantity unit="L">2.25</quantity>
+		</product>
+		<product category = "beverages">
+			<name>Harnaś</name>
+			<quantity unit="L">0.5</quantity>
+		</product>
+</ShoppingList>
