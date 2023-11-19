@@ -1,0 +1,76 @@
+h1{
+    text-align: center;
+    font-size: 52px;
+}
+p{
+    text-align: center;
+    font-size: 38px;
+}
+h1, h2, h3, p {
+    color: #ffffff; /* Set the font color to black for headers and paragraphs */
+}
+.paragraf{
+    font-size: 20px;
+    text-align: center;
+}
+
+img {
+    size:100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2, h3{
+    text-align: center;
+    font-size: 52px;
+}
+
+.second{
+    text-align: center;
+    font-size: 38px;
+}
+
+.third{
+    text-align: center;
+    font-size: 20px;
+}
+
+table, th, td {
+    border: 1px solid #ffffff;
+    border-collapse: collapse;
+    text-align: center;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th, td {
+    background-color: #96D4D4;
+}
+
+.columns {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    flex-wrap: wrap;
+}
+
+.formatted-columns {
+    width: 30%;
+    margin-right: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-evenly;
+    margin:auto;
+    
+}
+
+.searchengine{
+    text-align: center;
+    font-size: 40px;
+    color: #ffffff;
+}
